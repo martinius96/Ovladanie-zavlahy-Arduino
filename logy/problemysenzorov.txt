@@ -1,0 +1,5 @@
+20.08.2018 18:18:58 DS18B20 poslal neplatnú odpoveď!
+20.08.2018 18:20:33 DS18B20 poslal neplatnú odpoveď!
+20.08.2018 18:33:04 DS18B20 poslal neplatnú odpoveď!
+20.08.2018 18:41:17 DS18B20 poslal neplatnú odpoveď!
+25.12.2018 21:04:14 DS18B20 poslal neplatnú odpoveď!

@@ -1,0 +1,1 @@
+<?php echo file_get_contents("values/cas2okruh1.txt");?>
